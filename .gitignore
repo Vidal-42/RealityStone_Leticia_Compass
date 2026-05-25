@@ -1,0 +1,25 @@
+# Dependências locais
+.bundle
+vendor/bundle
+
+# Logs
+*.log
+
+# Coverage (caso volte a usar SimpleCov)
+coverage/
+
+# Arquivos temporários
+tmp/
+*.tmp
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+
+# Ruby
+*.gem
+
+# Ambiente
+.env
