@@ -1,0 +1,22 @@
+@"
+# Dependências
+/vendor/
+*.gem
+
+# Cobertura de testes
+/coverage/
+.simplecov
+
+# Arquivos temporários
+*.rbc
+*.log
+tmp/
+
+# Pry
+.pry_history
+
+# IDE
+.vscode/
+.idea/
+*.swp
+"@ | Out-File -FilePath .gitignore -Encoding utf8
