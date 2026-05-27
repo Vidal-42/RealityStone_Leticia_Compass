@@ -1,1 +1,0 @@
-# RealityStone_Leticia_Compass
